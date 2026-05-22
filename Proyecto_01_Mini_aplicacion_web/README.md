@@ -29,13 +29,29 @@ Este proyecto permite practicar la creación de una aplicación web sencilla, in
 ## Explicación del funcionamiento
 
 La mini-aplicación web funciona mediante archivos organizados dentro de la carpeta del proyecto. El código fuente se encuentra en la carpeta `codigo`, mientras que las evidencias y capturas de pantalla se colocan en la carpeta `capturas`.
-
 ## Capturas de pantalla
 
-Aquí se deben colocar las capturas del proyecto funcionando.
+### Pantalla principal
+![Pantalla principal](capturas/proyecto1.1.png)
 
-Ejemplo:
+### Registro de usuario
+![Registro de usuario](capturas/proyecto1.2.png)
 
-```markdown
-![Captura del proyecto](capturas/captura1.png)
+### Usuario registrado correctamente
+![Usuario registrado correctamente](capturas/proyecto1.3.png)
+
+### Nuevo contacto
+![Nuevo contacto](capturas/proyecto1.4.png)
+
+### Contacto guardado correctamente
+![Contacto guardado correctamente](capturas/proyecto1.5.png)
+
+### Agendar cita
+![Agendar cita](capturas/proyecto1.6.png)
+
+### Cita agendada correctamente
+![Cita agendada correctamente](capturas/proyecto1.7.png)
+
+
+
 
