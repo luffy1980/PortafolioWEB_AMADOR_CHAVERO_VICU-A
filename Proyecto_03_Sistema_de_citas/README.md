@@ -39,3 +39,22 @@ Proyecto_03_Sistema_de_citas/
 │   └── cita/
 ├── capturas/
 └── README.md
+## Capturas de pantalla
+
+### Registro de usuario
+![Registro de usuario](capturas/proyecto3.1.png)
+
+### Inicio de sesión
+![Inicio de sesión](capturas/proyecto3.2.png)
+
+### Panel principal
+![Panel principal](capturas/proyecto3.3.png)
+
+### Crear cita
+![Crear cita](capturas/proyecto3.4.png)
+
+### Cita registrada
+![Cita registrada](capturas/proyecto3.5.png)
+
+### Lista de citas
+![Lista de citas](capturas/proyecto3.6.png)
