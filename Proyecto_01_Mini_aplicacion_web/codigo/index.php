@@ -1,0 +1,13 @@
+nano config/database.php
+nano sql/base_datos.sql
+nano views/header.php
+nano views/footer.php
+nano php/usuarios.php
+nano views/usuarios.php
+nano php/contactos.php
+nano views/contactos.php
+nano php/citas.php
+nano views/citas.php
+nano assets/css/styles.css
+nano assets/js/app.js
+nano phpinfo.php
