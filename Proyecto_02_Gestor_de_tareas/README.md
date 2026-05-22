@@ -50,3 +50,19 @@ Proyecto_02_Gestor_de_tareas/
 │       └── procesar_creacion_tarea.php
 ├── capturas/
 └── README.md
+## Capturas de pantalla
+
+### Pantalla principal
+![Pantalla principal](capturas/proyecto2.1.png)
+
+### Crear tarea
+![Crear tarea](capturas/proyecto2.2.png)
+
+### Tarea registrada
+![Tarea registrada](capturas/proyecto2.3.png)
+
+### Editar tarea
+![Editar tarea](capturas/proyecto2.4.png)
+
+### Tarea completada
+![Tarea completada](capturas/proyecto2.5.png)
