@@ -39,3 +39,49 @@ Proyecto_04_Portafolio_WordPress/
 │   └── energoserver-portfolio/
 ├── capturas/
 └── README.md
+## Capturas de pantalla
+
+### Captura 1
+![Captura 1](capturas/proyecto4.1.png)
+
+### Captura 2
+![Captura 2](capturas/proyecto4.2.png)
+
+### Captura 3
+![Captura 3](capturas/proyecto4.3.png)
+
+### Captura 4
+![Captura 4](capturas/proyecto4.4.png)
+
+### Captura 5
+![Captura 5](capturas/proyecto4.5.png)
+
+### Captura 6
+![Captura 6](capturas/proyecto4.6.png)
+
+### Captura 7
+![Captura 7](capturas/proyecto4.7.png)
+
+### Captura 8
+![Captura 8](capturas/proyecto4.8.png)
+
+### Captura 9
+![Captura 9](capturas/proyecto4.9.png)
+
+### Captura 10
+![Captura 10](capturas/proyecto4.10.png)
+
+### Captura 11
+![Captura 11](capturas/proyecto4.11.png)
+
+### Captura 12
+![Captura 12](capturas/proyecto4.12.png)
+
+### Captura 13
+![Captura 13](capturas/proyecto4.13.png)
+
+### Captura 14
+![Captura 14](capturas/proyecto4.14.png)
+
+### Captura 15
+![Captura 15](capturas/proyecto4.15.png)
