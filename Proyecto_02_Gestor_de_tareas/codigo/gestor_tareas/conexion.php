@@ -1,7 +1,7 @@
 <?php
 $servidor = "localhost";
 $usuario = "root";
-$password = "";
+$password = "123456";
 $base_datos = "gestor_tareas";
 
 $conexion = mysqli_connect($servidor, $usuario, $password, $base_datos);
