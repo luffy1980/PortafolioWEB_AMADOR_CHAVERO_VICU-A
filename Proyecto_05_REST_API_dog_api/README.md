@@ -44,3 +44,34 @@ Proyecto_05_REST_API_dog_api/
 │   └── practica-dog-api/
 ├── capturas/
 └── README.md
+## Capturas de pantalla
+
+### Captura 1
+![Captura 1](capturas/proyecto5.1.png)
+
+### Captura 2
+![Captura 2](capturas/proyecto5.2.png)
+
+### Captura 3
+![Captura 3](capturas/proyecto5.3.png)
+
+### Captura 4
+![Captura 4](capturas/proyecto5.4.png)
+
+### Captura 5
+![Captura 5](capturas/proyecto5.5.png)
+
+### Captura 6
+![Captura 6](capturas/proyecto5.6.png)
+
+### Captura 7
+![Captura 7](capturas/proyecto5.7.png)
+
+### Captura 8
+![Captura 8](capturas/proyecto5.8.png)
+
+### Captura 9
+![Captura 9](capturas/proyecto5.9.png)
+
+### Captura 10
+![Captura 10](capturas/proyecto5.10.png)
