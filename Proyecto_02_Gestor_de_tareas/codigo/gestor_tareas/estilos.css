@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    max-width: 900px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.tarea {
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 6px;
+}
+
+.tarea h2 {
+    margin-top: 0;
+    color: #222;
+}
+
+.acciones a,
+.btn-nueva,
+button {
+    display: inline-block;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.acciones a {
+    background-color: #007bff;
+}
+
+.acciones a:last-child {
+    background-color: #dc3545;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input,
+textarea {
+    padding: 8px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+}
+
+textarea {
+    min-height: 100px;
+}
